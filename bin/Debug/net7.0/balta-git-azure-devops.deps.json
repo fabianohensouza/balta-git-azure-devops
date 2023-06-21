@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "balta-git-azure-devops/1.0.0": {
+        "runtime": {
+          "balta-git-azure-devops.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "balta-git-azure-devops/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
