@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Fabiano\\Documents\\MEGAsync\\Projetos\\Programming-Learning-Projects\\Dot Net\\Balta\\07 - Fundamentos do Azure, Git, GitHub e DevOps\\balta-git-azure-devops\\balta-git-azure-devops.csproj": {}
+    "c:\\Users\\Fabiano\\Documents\\MEGAsync\\Projetos\\Programming-Learning-Projects\\Dot Net\\Balta\\07 - Fundamentos do Azure, Git, GitHub e DevOps\\balta-git-azure-devops\\balta-git-azure-devops.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Fabiano\\Documents\\MEGAsync\\Projetos\\Programming-Learning-Projects\\Dot Net\\Balta\\07 - Fundamentos do Azure, Git, GitHub e DevOps\\balta-git-azure-devops\\balta-git-azure-devops.csproj": {
+    "c:\\Users\\Fabiano\\Documents\\MEGAsync\\Projetos\\Programming-Learning-Projects\\Dot Net\\Balta\\07 - Fundamentos do Azure, Git, GitHub e DevOps\\balta-git-azure-devops\\balta-git-azure-devops.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Fabiano\\Documents\\MEGAsync\\Projetos\\Programming-Learning-Projects\\Dot Net\\Balta\\07 - Fundamentos do Azure, Git, GitHub e DevOps\\balta-git-azure-devops\\balta-git-azure-devops.csproj",
+        "projectUniqueName": "c:\\Users\\Fabiano\\Documents\\MEGAsync\\Projetos\\Programming-Learning-Projects\\Dot Net\\Balta\\07 - Fundamentos do Azure, Git, GitHub e DevOps\\balta-git-azure-devops\\balta-git-azure-devops.csproj",
         "projectName": "balta-git-azure-devops",
-        "projectPath": "C:\\Users\\Fabiano\\Documents\\MEGAsync\\Projetos\\Programming-Learning-Projects\\Dot Net\\Balta\\07 - Fundamentos do Azure, Git, GitHub e DevOps\\balta-git-azure-devops\\balta-git-azure-devops.csproj",
+        "projectPath": "c:\\Users\\Fabiano\\Documents\\MEGAsync\\Projetos\\Programming-Learning-Projects\\Dot Net\\Balta\\07 - Fundamentos do Azure, Git, GitHub e DevOps\\balta-git-azure-devops\\balta-git-azure-devops.csproj",
         "packagesPath": "C:\\Users\\Fabiano\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Fabiano\\Documents\\MEGAsync\\Projetos\\Programming-Learning-Projects\\Dot Net\\Balta\\07 - Fundamentos do Azure, Git, GitHub e DevOps\\balta-git-azure-devops\\obj\\",
+        "outputPath": "c:\\Users\\Fabiano\\Documents\\MEGAsync\\Projetos\\Programming-Learning-Projects\\Dot Net\\Balta\\07 - Fundamentos do Azure, Git, GitHub e DevOps\\balta-git-azure-devops\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Fabiano\\AppData\\Roaming\\NuGet\\NuGet.Config",
